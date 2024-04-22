@@ -31,15 +31,19 @@ To get started with **Flavour Fusion**:
    `npm start`
 3. Open Expo Go on your mobile device and scan the QR code to view the app.
 
+## Home Page
 ![Home Page](images/Pic1.png)
 
-![Search Reciepe](images/Pic2.png)
+## Search Recipes in Home page
+![Search Reciep](images/Pic2.png)
 
+## Favourites in Home Page
 ![Favourites](images/Pic3.png)
 
-![Reciepe](images/Pic4.png)
+## Recipe Page
+![Recipe](images/Pic4.png)
 
-![Reciepe](images/Pic5.png)
+![Recipe](images/Pic5.png)
 
 ## Video Link for Flavour Fusion
 https://github.com/Santhosh5808/flavour-fusion/assets/167664057/cadf0f5e-4064-448a-bf55-eebc4a5ea88e
