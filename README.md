@@ -41,5 +41,5 @@ To get started with **Flavour Fusion**:
 
 ![Reciepe](images/Pic5.png)
 
-## Video link
+## Video Link for Flavour Fusion
 https://github.com/Santhosh5808/flavour-fusion/assets/167664057/cadf0f5e-4064-448a-bf55-eebc4a5ea88e
